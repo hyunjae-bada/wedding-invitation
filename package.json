@@ -3,8 +3,8 @@
   "version": "1.0.1",
   "description": "Hyunjae🤵 ❤ Bada 👰 Wedding Invitation💌",
   "main": "index.js",
-  "repository": "https://github.com/LeeKyuHyuk/wedding-invitation.git",
-  "author": "KyuHyuk Lee <lee@kyuhyuk.kr>",
+  "repository": "https://hyunjae-bada.github.io/wedding-invitation.git",
+  "author": "Hyunjae <hyunjaework@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "NODE_ENV=development webpack serve --progress",
